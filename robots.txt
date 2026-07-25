@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-jzz9ix.cuankita.space/sitemap.xml
